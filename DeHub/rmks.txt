@@ -1,0 +1,7 @@
+| This is the Dehub Git Edition default Remark: Feb 25th 12:50am -Dew
+| 
+| DeHub.sh was my first script day one of Ubuntu install
+| The idea was to have a central hub to keep track of notes as i was learning code.    
+| But what would you add for your own centrilized little workspace?
+| I decided python would be a cool language to write it in
+| So started to rewrite it in python to make its options seem...Endless.
